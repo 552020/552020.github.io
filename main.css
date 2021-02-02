@@ -1,0 +1,35 @@
+body {
+  background-color: red;
+}
+
+header {
+  /*border: 1px solid white;*/
+}
+
+h1 {
+  font-family: "Unica One", cursive;
+  color: white;
+}
+
+p {
+  font-family: "Unica One", cursive;
+  color: white;
+  /*border: 1px solid white;*/
+  text-align: justify;
+}
+
+main {
+  display: flex;
+}
+
+section {
+  /*border: 2px solid white;*/
+  padding: 5px;
+  padding-left: 100px;
+  width: 260px;
+}
+
+.firstletter {
+  font-size: 32px;
+  font-weight: bold;
+}
